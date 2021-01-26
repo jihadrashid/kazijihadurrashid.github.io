@@ -2583,7 +2583,7 @@ input, select, textarea {
 		}
 
 		.icon.brands:before {
-			font-family: 'Font Awesome 5 Brands';
+			font-family: "Font Awesome 5 Free", "Font Awesome 5 Solid", "Font Awesome 5 Brands", "Font Awesome 5 Regular";
 		}
 
 /* Image */
